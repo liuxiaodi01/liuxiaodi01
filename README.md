@@ -8,16 +8,7 @@
 
   [![Mango's github stats](https://github-readme-stats.vercel.app/api?username=miluluyo)](https://github.com/mango-lzp/github-readme-stats)
 -->
-
-
-
-
-
-
-
 <img align="right" width="300" height="169" src="https://github.com/miluluyo/photo_gallery/blob/master/maid.gif?raw=true">
-
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
@@ -46,11 +37,8 @@
   <code><img title="vue" height="25" src="images/vue.svg"></code>
 </p>
 <hr>
-
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-
 <p align=center>
   <div align=center>
     <a href="https://github.com//github-readme-streak-stats" title="Go to Source">
@@ -69,5 +57,4 @@
   <br>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=liuxiaodi01&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
 ---
