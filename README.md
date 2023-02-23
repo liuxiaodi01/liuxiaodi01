@@ -9,7 +9,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img style="object-fill:cover" src="https://readme-typing-svg.herokuapp.com/?color=0E0B0D&lines=哈喽~,+看这!+👋;慕君之心，至死方休;桃李春风一杯酒;江湖夜雨十年灯!&center=true&size=40">
+    <img style="object-fit:contain" src="https://readme-typing-svg.herokuapp.com/?color=0E0B0D&lines=哈喽~,+看这!+👋;慕君之心，至死方休;桃李春风一杯酒;江湖夜雨十年灯!&center=true&size=30">
   </a>
 </h1>
 <br>
