@@ -11,9 +11,6 @@
 
 
 
-<!--<a href="https://raw.githubusercontent.com/miluluyo/photo_gallery/master/qrcode.jpg" tarnk="_black">公众号『麋鹿鲁哟』</a>-->
-
-
 
 
 
@@ -21,85 +18,57 @@
 <img align="right" width="300" height="169" src="https://github.com/miluluyo/photo_gallery/blob/master/maid.gif?raw=true">
 
 
-# Hi, I'm [麋鹿鲁哟!](https://www.cnblogs.com/miluluyo/) 👋.
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+<br>
+<p align="center">
+ Hi, I am the_shy_shy. I come from Jingzhou, Hubei Province. I am a front-end developer
+</p>
+<hr>
+<h2 align="center">🔥 my skills 🔥</h2>
+<br>
+<p align="center">
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="SASS" height="25" src="images/sass.svg"></code>
+  <code><img title="React" height="25" src="images/react-original.svg"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
+  <code><img title="JSON" height="25" src="images/json.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="npm" height="25" src="images/npm.svg"></code>
+  <code><img title="vue" height="25" src="images/vue.svg"></code>
+</p>
+<hr>
 
-前端 | 热爱编程 :hatching_chick:
 
-大道至简，知易行难。 :running:
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
 
-公众号：『<a href="https://github.com/miluluyo/photo_gallery/blob/master/qrcode.jpg" tarnk="_black">麋鹿鲁哟</a>』
+<p align=center>
+  <div align=center>
+    <a href="https://github.com//github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=liuxiaodi01&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=liuxiaodi01&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuxiaodi01&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
 
-<!--[![码云](https://img.shields.io/badge/%E7%A0%81%E4%BA%91-soulnull-red)](https://gitee.com/soulnull)-->
-
-<!--## About me 
-
-❤️ 开源| 🖤 极客 | 📺 Linux
-
-- 🌐  海南-海口
-- 💻  like 极客开源
-- 🍓  like 树莓派
--->
-
-## Reach me 
-[![Github](https://img.shields.io/github/followers/miluluyo?label=Github&style=social)](https://github.com/miluluyo)
-[![Blog](https://img.shields.io/badge/blog-博客园-blue)](https://www.cnblogs.com/miluluyo/)
-[![Blog](https://img.shields.io/badge/blog-vdoing-pink)](https://miluluyo.github.io/vdoingBlog/)
-[![Blog](https://img.shields.io/badge/blog-vuepress-lilac)](https://miluluyo.github.io/)
-[![公众号](https://img.shields.io/badge/公众号-麋鹿鲁哟-green)](https://raw.githubusercontent.com/miluluyo/photo_gallery/master/qrcode.jpg)
-[![Mail](https://img.shields.io/badge/mail-miluluyo@163.com-red)](mailto:miluluyo@163.com)
-
-<!--[![码云](https://img.shields.io/badge/%E7%A0%81%E4%BA%91-miluluyo-red)](https://gitee.com/miluluyo)-->
-<!--[![小程序](https://img.shields.io/badge/小程序-SAnBlog-green)](https://app.sanii.cn/)-->
-### Interesting stats
-
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=miluluyo" />
-</a>
-<!--&nbsp;
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miluluyo&layout=compact" />
-</a>
--->
-
-&nbsp;
-
-Thanks for stopping by! 😁
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=liuxiaodi01&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--<img src="https://github.com/miluluyo/photo_gallery/blob/master/qrcode.jpg" />-->
-
-
-
-<!--### Hi there 👋
-
-
-**miluluyo/miluluyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
