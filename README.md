@@ -1,17 +1,15 @@
 <!--哈喽~ 欢迎来到我的 github-->
 
-
-
-
-
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miluluyo&layout=default)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Mango's github stats](https://github-readme-stats.vercel.app/api?username=miluluyo)](https://github.com/mango-lzp/github-readme-stats)
 -->
+
 <img align="right" width="300" height="169" src="https://github.com/miluluyo/photo_gallery/blob/master/maid.gif?raw=true">
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=哈喽~,+看这!+👋;慕君之心，至死方休;我所理解的生活就是和喜欢的一切在一起!&center=true&size=30">
   </a>
 </h1>
 <br>
