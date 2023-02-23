@@ -46,6 +46,8 @@
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=liuxiaodi01&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
+   <br> <br> <br> <br>
+   
   <br>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=liuxiaodi01&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
