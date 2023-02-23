@@ -5,7 +5,7 @@
   [![Mango's github stats](https://github-readme-stats.vercel.app/api?username=miluluyo)](https://github.com/mango-lzp/github-readme-stats)
 -->
 
-<img align="right" width="300" height="169" src="https://www.jsdelivr.net/gh/liuxiaodi01/blog-img/destroyIt.webp?raw=true">
+<img align="right" width="300" height="169" src="https://cdn.jsdelivr.net/gh/liuxiaodi01/blog-img/destroyIt.webp?raw=true">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
