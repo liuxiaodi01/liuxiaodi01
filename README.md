@@ -14,7 +14,7 @@
 </h1>
 <br>
 <p align="center">
- Hi, I am the_shy_shy. I come from Jingzhou, Hubei Province. I am a front-end developer
+ Hi, I am liuxiadi01. I come from china, Hubei Province. I am a front-end developer
 </p>
 <hr>
 <h2 align="center">🔥 my skills 🔥</h2>
